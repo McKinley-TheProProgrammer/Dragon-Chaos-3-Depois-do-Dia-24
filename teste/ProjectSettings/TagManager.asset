@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inimigo
+  - NPC
+  - Dialogue
+  - NameText
+  - BoxText
+  - Ground_Grass
+  - ColisionDeath
+  - Camera
+  - AudioTrigger
+  - Parede
+  - AudioTrigger2
+  - AudioTrigger3
+  - Camera2
+  - NPCAutomatico
+  - ColissionInstruction
+  - CaixadeTexto
+  - FIM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Land
+  - ConfinaCamera
+  - Player
+  - PlayerNoDash
+  - Inimigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New gh
+    uniqueID: 1880380729
+    locked: 0
